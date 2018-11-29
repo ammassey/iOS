@@ -1,0 +1,124 @@
+
+"Error: failed to prepare statement with message '%s'." = "Erreur: échec lors de la préparation de l'instruction avec le message '%s'.";
+
+"Could not delete file" = "Impossible de supprimer le fichier";
+
+"OK" = "D'accord";
+
+"Error: failed to dehydrate with message '%s'." = "Erreur: échec de la déshydratation avec le message '%s'.";
+
+"Error: failed to insert metadata with message '%s'." = "Erreur: impossible d'insérer les métadonnées avec le message '%s'.";
+
+"Error: failed to insert bond with message '%s'." = "Erreur: échec lors de l'insertion de la liaison avec le message '%s'.";
+
+"Failed to create writable database file with message '%@'." = "Échec de la création du fichier de base de données accessible en écriture avec le message '%@'.";
+
+"Error: failed to close database with message '%s'." = "Erreur: impossible de fermer la base de données avec le message '%s'.";
+
+"Failed to open database with message '%s'." = "Échec d'ouverture de la base de données avec le message '%s'.";
+
+"Initializing database..." = "Initialisation de la base de données ...";
+
+"Downloading molecule..." = "Téléchargement de la molécule ...";
+
+"Error in downloaded file" = "Erreur dans le fichier téléchargé";
+
+"The molecule file is either corrupted or not of a supported format" = "Le fichier de la molécule est corrompu ou non d'un format pris en charge";
+
+"Connection failed" = "La connexion a échoué";
+
+"Could not connect to the Protein Data Bank" = "Impossible de se connecter à la banque de données sur les protéines";
+
+"Could not find file" = "Fichier introuvable";
+
+"No such file exists on the server: %@" = "Ce fichier n'existe pas sur le serveur: %@";
+
+"Molecule location" = "Localisation de la molécule";
+
+"Error in loading custom location" = "Erreur lors du chargement de l'emplacement personnalisé";
+
+"The address could not be reached" = "L'adresse n'a pas pu être atteinte";
+
+"Online Data Source" = "Source de données en ligne";
+
+"Download" = "Télécharger";
+
+"RCSB Protein Data Bank" = "Banque de données sur les protéines RCSB";
+
+"Custom location" = "Emplacement personnalisé";
+
+"Description" = "La description";
+
+"Statistics" = "Statistiques";
+
+"Journal" = "Journal";
+
+"Source" = "La source";
+
+"Author(s)" = "Auteurs)";
+
+"Sequence" = "Séquence";
+
+"File name" = "Nom de fichier";
+
+"Number of atoms" = "Nombre d'atomes";
+
+"Number of structures" = "Nombre de structures";
+
+"Current structure" = "Structure actuelle";
+
+"Download" = "Télécharger";
+
+"Done" = "Terminé";
+
+"File already exists" = "Le fichier existe déjà";
+
+"The molecule with this PDB code has already been downloaded" = "La molécule avec ce code PDB a déjà été téléchargée";
+
+"Cancel download" = "Annuler le téléchargement";
+
+"Connecting..." = "De liaison...";
+
+"Downloading" = "Téléchargement";
+
+"No protein with the code %@ exists in the data bank" = "Aucune protéine avec le code %@ n’existe dans la banque de données";
+
+"Connected" = "Connecté";
+
+"Processing..." = "En traitement...";
+
+"Triangles: %d" = "Triangles: %d";
+
+"Vertices: %d" = "Sommets: %d";
+
+"Elapsed time: %f" = "Temps écoulé: %f";
+
+"Spacefilling" = "Spacefilling";
+
+"Cylinders" = "Les cylindres";
+
+"Ball-and-stick" = "Balle et bâton";
+
+"Visualization mode" = "";
+
+"Rendering..." = "";
+
+"Search for molecules" = "";
+
+"Protein Data Bank" = "";
+
+"Retrieving titles..." = "";
+
+"Searching..." = "";
+
+"No results" = "";
+
+"Results" = "";
+
+"Molecules" = "";
+
+"3D Model" = "";
+
+"Download new molecules" = "";
+
+"Test-String" = "";
