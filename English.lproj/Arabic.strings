@@ -1,0 +1,124 @@
+
+"Error: failed to prepare statement with message '%s'." = "الخطأ: أخفق إعداد العبارة مع الرسالة \"%s\".";
+
+"Could not delete file" = "لا يمكن حذف الملف";
+
+"OK" = "حسنا";
+
+"Error: failed to dehydrate with message '%s'." = "الخطأ: فشل في التجفيف مع الرسالة \"%s\".";
+
+"Error: failed to insert metadata with message '%s'." = "الخطأ: أخفق إدراج البيانات الأولية مع الرسالة \"%s\".";
+
+"Error: failed to insert bond with message '%s'." = "الخطأ: أخفق إدراج الرابط مع الرسالة \"%s\".";
+
+"Failed to create writable database file with message '%@'." = "أخفق إنشاء ملف قاعدة بيانات قابل للكتابة مع الرسالة '%@'.";
+
+"Error: failed to close database with message '%s'." = "خطأ: فشل في إغلاق قاعدة البيانات بالرسالة '%s'.";
+
+"Failed to open database with message '%s'." = "فشل في فتح قاعدة البيانات برسالة '%s'.";
+
+"Initializing database..." = "تهيئة قاعدة البيانات ...";
+
+"Downloading molecule..." = "جارٍ تنزيل الجزيء ...";
+
+"Error in downloaded file" = "خطأ في الملف الذي تم تنزيله";
+
+"The molecule file is either corrupted or not of a supported format" = "إما أن يكون ملف الجزيء تالفًا أو ليس بتنسيق مدعوم";
+
+"Connection failed" = "فشل الاتصال";
+
+"Could not connect to the Protein Data Bank" = "لا يمكن الاتصال ببنك بيانات البروتين";
+
+"Could not find file" = "لا يمكن ايجاد الملف";
+
+"No such file exists on the server: %@" = "لا يوجد مثل هذا الملف على الخادم: %@";
+
+"Molecule location" = "موقع جزيء";
+
+"Error in loading custom location" = "خطأ في تحميل الموقع المخصص";
+
+"The address could not be reached" = "لا يمكن الوصول إلى العنوان";
+
+"Online Data Source" = "مصدر البيانات عبر الإنترنت";
+
+"Download" = "تحميل";
+
+"RCSB Protein Data Bank" = "بنك معلومات بروتين RCSB";
+
+"Custom location" = "موقع مخصص";
+
+"Description" = "وصف";
+
+"Statistics" = "الإحصاء";
+
+"Journal" = "مجلة";
+
+"Source" = "مصدر";
+
+"Author(s)" = "المؤلفون)";
+
+"Sequence" = "تسلسل";
+
+"File name" = "اسم الملف";
+
+"Number of atoms" = "عدد الذرات";
+
+"Number of structures" = "عدد الهياكل";
+
+"Current structure" = "الهيكل الحالي";
+
+"Download" = "تحميل";
+
+"Done" = "فعله";
+
+"File already exists" = "الملف موجود بالفعل";
+
+"The molecule with this PDB code has already been downloaded" = "وقد تم بالفعل تحميل الجزيء مع رمز PDB هذا";
+
+"Cancel download" = "إلغاء التنزيل";
+
+"Connecting..." = "توصيل...";
+
+"Downloading" = "جارى التحميل";
+
+"No protein with the code %@ exists in the data bank" = "لا يوجد بروتين يحتوي على الكود %@ موجود في بنك البيانات";
+
+"Connected" = "متصل";
+
+"Processing..." = "معالجة...";
+
+"Triangles: %d" = "المثلثات: %d";
+
+"Vertices: %d" = "القمم: %d";
+
+"Elapsed time: %f" = "الوقت المنقضي: %f";
+
+"Spacefilling" = "Spacefilling";
+
+"Cylinders" = "اسطوانات";
+
+"Ball-and-stick" = "الكرة والعصا";
+
+"Visualization mode" = "";
+
+"Rendering..." = "";
+
+"Search for molecules" = "";
+
+"Protein Data Bank" = "";
+
+"Retrieving titles..." = "";
+
+"Searching..." = "";
+
+"No results" = "";
+
+"Results" = "";
+
+"Molecules" = "";
+
+"3D Model" = "";
+
+"Download new molecules" = "";
+
+"Test-String" = "";
