@@ -8,4 +8,6 @@
 "Error: failed to insert bond with message '%s'." = "Error: failed to insert bond with message '%s'.";
 "Failed to create writable database file with message '%@'." = "Failed to create writable database file with message '%@'.";
 "Error: failed to close database with message '%s'." = "Error: failed to close database with message '%s'.";
-"Failed to open database with message '%s'." = "Failed to open database with message '%s'."
+"Failed to open database with message '%s'." = "Failed to open database with message '%s'.";
+"alliealantest" = "testing testing";
+"test" = "test";
