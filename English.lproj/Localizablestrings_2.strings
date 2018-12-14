@@ -1,0 +1,11 @@
+/* English */
+
+"Error: failed to prepare statement with message '%s'." = "Error: failed to prepare statement with message '%s'.";
+"Could not delete file" = "Could not delete file";
+"OK" = "OK";
+"Error: failed to dehydrate with message '%s'." = "Error: failed to dehydrate with message '%s'.";
+"Error: failed to insert metadata with message '%s'." = "Error: failed to insert metadata with message '%s'.";
+"Error: failed to insert bond with message '%s'." = "Error: failed to insert bond with message '%s'.";
+"Failed to create writable database file with message '%@'." = "Failed to create writable database file with message '%@'.";
+"Error: failed to close database with message '%s'." = "Error: failed to close database with message '%s'.";
+"Failed to open database with message '%s'." = "Failed to open database with message '%s'."
