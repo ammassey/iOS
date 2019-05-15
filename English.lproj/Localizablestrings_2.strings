@@ -10,4 +10,7 @@
 "Error: failed to close database with message '%s'." = "Error: failed to close database with message '%s'.";
 "Failed to open database with message '%s'." = "Failed to open database with message '%s'.";
 "alliealantest" = "testing testing";
-"test" = "test";
+"test1" = "Testing Qordoba's Git Connector";
+"test2" = "test test test";
+"test3" = "test teste setetsetsets";
+"test4" = "testy McTestFace";
