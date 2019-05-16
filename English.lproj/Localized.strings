@@ -64,3 +64,11 @@
 "Test-String" = "This is a test to send translations to qordoba.";
 "teststrin2" = "This test is to trigger an event to Lokalise.";
 teststring3" = "Test Test TEst ;laksjdnf;laksdjf;aslkdjfa;lskdjf.";
+"Rendering..." = "Rendering...";
+"Search for molecules" = "Search for molecules";
+"Protein Data Bank" = "Protein Data Bank";
+"Retrieving titles..." = "Retrieving titles...";
+"Searching..." = "Searching...";
+"No results" = "No results";
+"Results" = "Results";
+"Molecules" = "Molecules";
